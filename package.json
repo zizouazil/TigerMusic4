@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-heroku",
+  "name": "TigerMusic4",
   "version": "1.0.0",
-  "description": "Discord.js bot on Heroku",
+  "description": "TigerMusic4",
   "main": "bot.js",
   "dependencies": {
     "node": "8.x",
